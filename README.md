@@ -1,6 +1,6 @@
 # ReactiveFormsApp
 
-Este proyecto es de carácter educativo, del curso de angular de Fernando Herrera: https://www.udemy.com/course/angular-fernando-herrera , orientado al uso de formularios reactivos (usando reactiveForms, en este proyecto no se usa signals forms, pero sí más adelante en el mismo curso)
+Este proyecto es de carácter educativo, del curso de angular de Fernando Herrera: https://www.udemy.com/course/angular-fernando-herrera , orientado al uso de formularios reactivos
 
 
 ## Development server
